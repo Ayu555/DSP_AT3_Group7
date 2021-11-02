@@ -1,1 +1,9 @@
-# DSP_AT3_Group7
+# To be filled by students
+
+# Description
+
+# Authors
+
+# Structure
+
+# Instructions
